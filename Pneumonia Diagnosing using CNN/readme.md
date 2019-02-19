@@ -28,7 +28,7 @@ and we can observe just 8 samples is literaly false because they are pneumonia s
 <img src="imgs/wholenetwork.png"/>
 
 ## Final Thought
-I tried resnet101 and densenet 161 architechtures and got same results oth this model so I suggest to try another pre-trained model like Xception.
+I tried resnet101 and densenet 161 architectures and got same results oth this model so I suggest to try another pre-trained model like Xception.
 
 
 
